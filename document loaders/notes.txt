@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines that can think, learn, and make decisions like humans.
+
+Machine Learning is a subset of AI that allows systems to learn from data without being explicitly programmed.
+
+Deep Learning is a subset of Machine Learning that uses neural networks with many layers to analyze complex data.
+
+Python is one of the most popular programming languages used in AI and data science because of its simplicity and powerful libraries.
+
+RAG (Retrieval Augmented Generation) is a technique where an AI model retrieves relevant documents and then generates answers based on them.
